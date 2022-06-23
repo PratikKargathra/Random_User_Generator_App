@@ -1,16 +1,7 @@
-# random_userdata_app
+# Random User Generator | API 
 
-A new Flutter project.
+this app give you random user data 
+if you need 5 user data this app app give 5 user data. thsi app shows best use of API (Get Post and Ui/UX.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## OUTPUT :
+![Uploading project-3 GIF.gif…]()
